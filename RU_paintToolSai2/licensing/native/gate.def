@@ -1,0 +1,5 @@
+LIBRARY SAI2RuLicense
+EXPORTS
+    CheckLicense
+    VerifyLicense
+    GetDeviceCode

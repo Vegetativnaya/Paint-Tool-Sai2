@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+# Owner secrets and individualized artifacts must never be published.
+RU_paintToolSai2/licensing/.owner/
+RU_paintToolSai2/licensing/issued/
+RU_paintToolSai2/licensed-distribution*/
+**/private-key.pem
+**/translation.lic
+**/request-license.txt
